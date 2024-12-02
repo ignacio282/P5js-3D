@@ -1,6 +1,6 @@
 # 3D Shapes in p5.js
 
-![Project Preview](3D.jpg)
+![Project Preview](3d.png)
 
 This project showcases a 3D virtual environment created with p5.js, featuring various geometric primitives like boxes, spheres, cylinders, and toruses. The environment includes custom structures, such as towers, floating spheres, and ringed torus formations, to create an engaging and visually rich scene.
 
